@@ -33,3 +33,7 @@ $RECYCLE.BIN/
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
+/.vs/config/applicationhost.config
+/.vs/launch.vs.json
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
